@@ -20,7 +20,7 @@ const Footer = () => {
                   >SHOP<span className='text-coral-red'>SNICKERS</span></p>
             </a>
           <p className='mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm'>
-            Get shoes ready for the new term at your nearest Nike store. Find
+            Get shoes ready for the new term at your nearest ShopSnickers store. Find
             Your perfect Size In Store. Get Rewards
           </p>
           <div className='flex items-center gap-5 mt-8'>
